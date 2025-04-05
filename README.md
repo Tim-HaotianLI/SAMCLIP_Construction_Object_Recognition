@@ -40,15 +40,15 @@ This project combined two deep-learning modules, SAM and CLIP, for enabling the 
 
 **a.** Results of segmentation and semantic matching
 
-![image-20250405150138983](C:\Users\HKU-i5-Oscar\AppData\Roaming\Typora\typora-user-images\image-20250405150138983.png)
+![image-20250405150138983](./imgs/image-20250405150138983.png)
 
 **b.** Performance comparison of different model combinations
 
-![image-20250405150259112](C:\Users\HKU-i5-Oscar\AppData\Roaming\Typora\typora-user-images\image-20250405150259112.png)
+![image-20250405150259112](./imgs/image-20250405150259112.png)
 
 **c.** Explainable analysis of CLIP model
 
-![image-20250405150836371](C:\Users\HKU-i5-Oscar\AppData\Roaming\Typora\typora-user-images\image-20250405150836371.png)
+![image-20250405150836371](./imgs/image-20250405150836371.png)
 
 
 
